@@ -1,0 +1,7 @@
+version: "2"
+domain: k8s.io
+repo: crd
+resources:
+- group: staight
+  version: v1
+  kind: Alpine
